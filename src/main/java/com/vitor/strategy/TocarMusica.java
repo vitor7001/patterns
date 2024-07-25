@@ -1,4 +1,4 @@
-package com.vitor;
+package com.vitor.strategy;
 
 import com.vitor.strategy.DeezerStrategy;
 import com.vitor.strategy.PlayerStrategy;
